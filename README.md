@@ -4,11 +4,11 @@
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=MaxAndolini&show_icons=true&count_private=true&theme=midnight-purple" alt="Ercan Acar's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAndolini&layout=compact&theme=midnight-purple" alt="My Top Langs" />
+  <img  src="https://github-stats-extended.vercel.app/api?username=MaxAndolini&show_icons=true&count_private=true&theme=midnight-purple" alt="Ercan Acar's github stats" />
+  <img  src="https://github-stats-extended.vercel.app/api/top-langs?username=MaxAndolini&layout=compact&theme=midnight-purple" alt="My Top Langs" />
 </p>
 
-[![Ercan Acar's github trophy](https://github-profile-trophy.vercel.app/?username=MaxAndolini&row=1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ercan Acar's github trophy](https://github-profile-trophy-tawny.vercel.app/?username=MaxAndolini&theme=darkhub)]()
 
 ## 📫 How to Reach Me
 
